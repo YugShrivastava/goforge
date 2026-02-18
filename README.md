@@ -1,2 +1,2 @@
 # goforge
-production grade go backend
+production grade boilerplate go backend
