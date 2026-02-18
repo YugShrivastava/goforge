@@ -1,0 +1,21 @@
+# environment files
+.env
+
+# executables
+.exe
+.exe~
+.dll
+.so
+.so
+.dylib
+
+# test files
+*.test
+
+# go coverage
+*.out
+tmp/
+
+# worksapce files
+go.work.sum
+go.work
